@@ -1,0 +1,14 @@
+apple
+orange
+cow
+tiger
+lion
+mundo
+master
+student
+primary
+secondary
+pen
+phone
+head
+toe
